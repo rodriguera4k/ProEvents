@@ -1,3 +1,6 @@
 {
-  "dotnet.defaultSolution": "Back/src/ProEventos.API/ProEventos.API.sln"
+  "dotnet.defaultSolution": "Back/src/ProEventos.API/ProEventos.API.sln",
+  "cSpell.words": [
+    "fortawesome"
+  ]
 }
